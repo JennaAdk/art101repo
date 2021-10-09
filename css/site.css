@@ -1,3 +1,38 @@
 #my-portrait{
   width: 300px;
+  padding-left: 1000px ;
+}
+body{
+  background-color: aliceblue;
+  width:auto;
+  height: 500px;
+}
+#content{
+  padding: 50px;
+  background-color:#314552;
+  width:auto;
+  height: 300px;
+}
+#intro{
+  padding-left: 50px;
+  padding-right: 300px;
+  text-align:justify;
+}
+h1{
+  font-size: 40px;
+  font-family: Helvetica;
+}
+p{
+  font-size:18px;
+  font-family:arial;
+}
+h2{
+  padding-top: 50px;
+  font-family:helvetica;
+  font-size: 25px;
+}
+ul{
+  font-family:arial;
+  font-size: 15px;
+  padding-bottom:70px;
 }
