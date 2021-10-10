@@ -1,6 +1,7 @@
 #my-portrait{
   width: 300px;
-  padding-left: 1000px ;
+  /*padding-left: 1000px ;*/
+  float:right;
 }
 body{
   background-color: aliceblue;
@@ -14,8 +15,10 @@ body{
   height: 300px;
 }
 #intro{
-  padding-left: 50px;
-  padding-right: 300px;
+  color: mintcream;
+  padding-left: 80px;
+  padding-right: 800px;
+  padding-top: 70px;
   text-align:justify;
 }
 h1{
@@ -25,14 +28,16 @@ h1{
 p{
   font-size:18px;
   font-family:arial;
+  line-height: 30px;
 }
 h2{
-  padding-top: 50px;
+  padding-top: 60px;
   font-family:helvetica;
-  font-size: 25px;
+  font-size: 28px;
 }
 ul{
   font-family:arial;
-  font-size: 15px;
+  font-size: 18px;
   padding-bottom:70px;
+  line-height: 30px;
 }
