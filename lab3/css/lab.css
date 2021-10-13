@@ -2,10 +2,27 @@ body{
   padding:50px;
 }
 #filestructure{
-  padding-top:10px;
+  padding-top:20px;
+  width: 800px;
+}
+#filesource{
+  padding-top:20px;
   width:800px;
 }
 #browser{
-  padding-top:10px;
+  padding-top:20px;
   width:800px;
+}
+#p1{
+  font-style: italic;
+  padding-top:5px;
+}
+#p2{
+  font-style:italic;
+  padding-top:5px;
+}
+#p3{
+  font-style:italic;
+  padding-top:5px;
+  padding-bottom:50px;
 }
