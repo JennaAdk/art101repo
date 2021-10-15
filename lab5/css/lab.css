@@ -1,0 +1,26 @@
+#lab5head{
+  background-color:#314552;
+  color:mintcream;
+  padding:50px;
+  font-size:50px;
+  font-family:Helvetica;
+}
+#text{
+  padding:50px;
+  padding-top:5px;
+  margin-left: 200px;
+  margin-right:200px;
+}
+h2{
+  font-family:helvetica
+}
+#script{
+  padding-top:5px;
+  margin-left:50px;
+}
+#java{
+  font-size:20px;
+  margin-left:50px;
+  font-style: arial;
+  line-height:30px;
+}

@@ -5,13 +5,13 @@
 **/
 
 // Define the Variables
-make = "Jeep";
-model = "Wrangler";
-color = "Green";
-year = "1998";
+var make = " Jeep";
+var model = " Wrangler";
+var color = " Green";
+var year = " 1998";
 
 //Calculate
-age = 2021 - year;
+var age = 2021 - year;
 
 //Output
 document.writeln("Make:" + make + "<br>");
