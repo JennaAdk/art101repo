@@ -1,0 +1,24 @@
+#lab6head{
+  background-color:#314552;
+  color:mintcream;
+  padding:50px;
+  font-size:50px;
+  font-family:Helvetica;
+  }
+
+#jeep{
+    width:300px;
+    float:right;
+    padding-top:5px;
+    padding-bottom:100px;
+    margin-right:225px;
+}
+#text{
+  padding:50px;
+  padding-top:5px;
+  margin-left: 200px;
+  margin-right:200px;
+}
+h2{
+  font-family:helvetica
+}
