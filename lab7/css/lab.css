@@ -5,9 +5,12 @@
   font-size:50px;
   font-family:Helvetica;
   }
-  h2{
-    font-family:helvetica
+
+h2{
+  padding-top: 5px;
+  font-family:helvetica
   }
+
 #lab7info{
   padding:50px;
   padding-top:5px;
