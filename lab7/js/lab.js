@@ -6,20 +6,20 @@
 
 //The function sorts the letters of an inputed name
 function sortUserName() {
-    var userName window.prompt("Hi! Please enter your name so that I can sort it.") ;
+    var userName = window.prompt("Hi! Please enter your name so that I can sort it.") ;
     console.log("userName =", userName);
   // split string to array
-    var userNameArray = userName.split('');
-    console.log("userNameArray =", userNameArray);
+    var nameArray = userName.split('');
+    console.log("nameArray =", nameArray);
   // sort the Array
-    var userNameArraySort = userNameArray.sort();
-    console.log("userNameArraySort =", userNameArraySort);
+    var nameArraySort = nameArray.sort();
+    console.log("nameArraySort =", nameArraySort);
   // joining array back to string
-    var useNameSorted = userNameArraySort.join('');
-    console.log("userNameSorted =", userNameSorted);
+    var nameSorted = nameArraySort.join('');
+    console.log("nameSorted =", nameSorted);
   // return
-    return userNameSorted;
+    return nameSorted;
 }
 
 // Output
-document.writeln("I've fixed your name!: ", sortUserName(), "<br>");
+document.writeln("I've fixed your name!: ", sortUserName(), "</br>");
