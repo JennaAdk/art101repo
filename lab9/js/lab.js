@@ -19,11 +19,22 @@ new2El.innerHTML ="I think it works!";
 outputEl.appendChild(new1El);
 outputEl.appendChild(new2El);
 
+//css attributes
+new1El.style.color= "red";
+new2El.style.color= "green";
+new1El.style.fontSize= "25px";
+new2El.style.fontSize= "25px";
+
+
+
 // Task X:
 //appending an Element to the top
 var new3El = document.createElement("p");
 new3El.innerHTML = "*cough cough*";
 outputEl.prepend(new3El);
 
+//css attributes
+new3El.style.color = "blue";
+new3El.style.fontSize= "25px";
 //DOM element -accessKey
 document.getElementById("home").accessKey = "j";
