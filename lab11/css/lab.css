@@ -10,19 +10,14 @@ background-color:#587282;
 color:white;
 transition: all 0.5s;
 }
-.change {
-  background-color:red;
-}
 #lab11head {
   background-color:#314552;
   color:mintcream;
   padding:20px;
-  margin-top:0;
   font-size:40px;
   font-family:Helvetica;
 }
 #lab11info {
-  margin-top:0px;
   margin-left:100px;
   margin-right: 135px;
   padding-bottom:40px;
@@ -36,24 +31,19 @@ transition: all 0.5s;
   border-radius: 17px;
   font-weight: bold;
 }
-#chbutton:hover, #pbutton:hover, #rbutton:hover, {
+#chbutton:hover, #pbutton:hover, #rbutton:hover {
   background-color:#314552;
 }
-#problems, #results {
-  margin-top:30px;
-}
-#challenge {
-  margin-top:0px;
-}
 h2{
-  padding-top:20px;
+  padding-top:15px;
   font-family:helvetica;
-  font-size:35px;
+  font-size:30px;
 }
 p {
   font-family:arial;
-  font-size:18;
+  font-size:16px;
   text-align: justify;
   margin-left:50px;
+  padding-top:0px;
   line-height: 20px;
 }
