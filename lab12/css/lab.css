@@ -1,0 +1,71 @@
+body {
+  background-image: url("../img/cloudy.jpg");
+  background-color:#314552;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  padding-bottom:0px;
+  margin-bottom:0px;
+}
+.item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+
+.grid-container {
+  width: 96.6vw;
+  height: 50vh;
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+#lab12head{
+  font-family: 'Rock Salt', cursive;
+  letter-spacing:5px;
+}
+#sortinghat {
+  /*float:right;*/
+  padding-bottom:0px
+}
+#output{
+  padding:10px;
+  font-size:80px;
+}
+#lab12info {
+  margin-right:100px;
+  margin-bottom:160px;
+  padding:20px;
+  background-color: rgba(125, 125, 125, 0.5);
+  border-radius:17px;
+  text-align: justify;
+}
+#button {
+  color:white;
+  background-color:#485f6e;
+  border:none;
+  padding:10px 24px;
+  transition: 0.4s;
+  border-radius: 17px;
+  font-weight: bold;
+}
+
+h2 {
+  padding:10px;
+  padding-top:5px;
+}
+p {
+  margin-left:40px;
+  margin-right:20px;
+  font-size:14px;
+}
