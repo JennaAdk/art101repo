@@ -1,0 +1,45 @@
+#lab15head{
+  background-color:#314552;
+  color:mintcream;
+  margin-top:0px;
+  padding:30px;
+  font-size:50px;
+  font-family:Helvetica;
+  }
+
+h2{
+  padding-top: 5px;
+  font-family: "helvetica";
+  }
+
+#lab15info{
+  padding:50px;
+  padding-top:5px;
+  margin-top:0px;
+  margin-left: 50px;
+}
+p{
+  margin-right:550px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 20px;
+}
+#knope{
+  font-size: 30px;
+}
+#activate {
+  padding: 8px 50px;
+  border-radius:20px;
+  border:none;
+  transition:0.4s;
+  background-color:#314552;
+  color:white;
+}
+#activate:hover{
+  background-color:#b8b8b8;
+  color:black;
+}
+#output {
+  margin-top:30px;
+  font-size:18px;
+}
