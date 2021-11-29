@@ -1,19 +1,39 @@
 #lab7head{
   background-color:#314552;
   color:mintcream;
-  padding:50px;
+  margin-top:0px;
+  padding:30px;
   font-size:50px;
   font-family:Helvetica;
   }
 
 h2{
   padding-top: 5px;
-  font-family:helvetica
+  font-family: "helvetica";
   }
 
 #lab7info{
   padding:50px;
   padding-top:5px;
-  margin-left: 200px;
-  margin-right:200px;
+  margin-top:0px;
+  margin-left: 50px;
+}
+p{
+  margin-right:550px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 20px;
+}
+#sticker{
+  float:right;
+  width: 500px;
+}
+.newName {
+  position: absolute;
+  top: 350px;
+  right: 70px;
+  width: 450px;
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
 }

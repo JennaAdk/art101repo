@@ -1,0 +1,37 @@
+#lab14head{
+  background-color:#314552;
+  color:mintcream;
+  margin-top:0px;
+  padding:20px;
+  font-size:50px;
+  font-family:Helvetica;
+  }
+
+h2{
+  padding-top: 5px;
+  font-family: "helvetica";
+  }
+
+#lab14info{
+  padding:50px;
+  padding-top:5px;
+  margin-top:0px;
+  margin-left: 10px;
+  margin-right:300px;
+}
+p{
+  margin-right:550px;
+  text-align: justify;
+  font-size: 15px;
+  line-height: 25px;
+}
+#results {
+  float:right;
+}
+#lab7 {
+  width:400px;
+}
+#lab8 {
+  width:400px;
+  float:inherit;
+}

@@ -3,7 +3,7 @@
   color:mintcream;
   padding:30px;
   margin-top:0;
-  font-size:50px;
+  font-size:30px;
   font-family:Helvetica;
   }
 
@@ -16,11 +16,16 @@ h2{
   padding:50px;
   padding-top:5px;
   padding-bottom:10px;
-  margin-left: 200px;
-  margin-right:200px;
+  margin-left: 10px;
+  margin-right:500px;
 }
 
 p{
   font-family:arial;
   font-size:18;
+  text-align:justify;
+}
+#results {
+  float:right;
+  margin-right:200px;
 }
