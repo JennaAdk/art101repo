@@ -1,0 +1,75 @@
+#lab16head {
+background-color:#314552;
+color:mintcream;
+margin-top:0px;
+margin-bottom: 0px;
+padding:15px;
+text-align: center;
+font-size:40px;
+font-family:Helvetica;
+border-radius:17px;
+}
+
+#lab16info{
+  margin-top:0px;
+  margin-left: 50px;
+  margin-right:80px;
+}
+#challenge {
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+#challenge-p {
+  background-color:#728d9e;
+  border-radius:17px;
+  margin-top:20px;
+  padding:10px;
+}
+#problems{
+  padding:0px;
+  margin-top:0px;
+  margin-bottom: 10px;
+}
+#problems-p {
+  background-color:#728d9e;
+  border-radius:17px;
+  margin-top:20px;
+  padding:10px;
+}
+#results {
+  padding:0px;
+  margin-top:5px;
+  margin-bottom: 10px;
+}
+#activate {
+  padding: 8px 50px;
+  border-radius:20px;
+  border:none;
+  transition:0.4s;
+  background-color:#314552;
+  color:white;
+}
+#activate:hover{
+  background-color:#b8b8b8;
+  color:black;
+}
+#output-results {
+  float:right;
+  margin-right:500px;
+}
+#output {
+  padding:0px;
+}
+#title {
+  text-align:center;
+}
+img {
+  width:400px;
+}
+h2{
+  padding:0px;
+}
+p {
+  margin-top:0px;
+  text-align:justify;
+}
